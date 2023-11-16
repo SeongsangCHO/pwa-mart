@@ -1,3 +1,7 @@
+/**
+ * @fileoverview tsc ./confetti.ts --module es6
+ */
+
 interface ConfettiOptions {
   length: number;
   width: number;
